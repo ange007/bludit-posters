@@ -1,0 +1,3 @@
+[submodule "vendor/poster-gen"]
+	path = vendor/poster-gen
+	url = https://github.com/ange007/poster-gen.git
